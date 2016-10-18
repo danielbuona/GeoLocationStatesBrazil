@@ -4,10 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "letter": "G",
-        "color": "blue",
-        "rank": "7",
-        "ascii": "71"
+    fillColor: 'green',
+    strokeWeight: 1
       },
       "geometry": {
         "type": "Polygon",
