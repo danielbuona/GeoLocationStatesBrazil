@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "SP",
-        "Description": "SÃO PAULO \/ SUDESTE",
-        "color": "blue"
+        "letter": "G",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
