@@ -4,8 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-    fillColor: 'green',
-    strokeWeight: 1
       },
       "geometry": {
         "type": "Polygon",
